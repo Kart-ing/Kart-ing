@@ -1,23 +1,16 @@
-# Hi, I'm Kartikey 👋
-### Founding Engineer | 9x Hackathon Winner 🏆 | AI Systems
+I've been building for AI since before ChatGPT was a thing.
 
-I don't just write code; I ship products. I specialize in building autonomous agents, edge AI infrastructure, and high-velocity prototypes.
+At 16 I built NoteX, an app that turned your lectures into notes right on your device. Its summarizer became my first patent. Six years later my friend Parth and I came back to the same problem for LLMs, built Re:Compress, and won The Token Company's Best Compression Model prize at the UC Berkeley AI Hackathon.
 
-- 🔭 **Currently working on:** Project Elementals (Shared-world AR)
-- 🏆 **Track Record:** 9x Hackathon Winner (Cal Hacks, MHacks, etc.)
-- 🎓 **Status:** 1 Credit remaining at Penn State. **Available for full-time roles immediately.**
-- 📂 **Archive:** Looking for my older work? Check my legacy account: [@kartikey-onlineGOD](https://github.com/kartikey-onlineGOD)
+I've picked up 13 hackathon prizes along the way and been a founding engineer at two startups (ColdStart, and Raya Health from HF0 W26).
 
----
+Now I'm building Karts, so your coding agents get their own copy of the app to break instead of the real one. My first version had a funded team using it every day, a week after my first commit. Still early, still building.
 
-### 🚀 Featured Engineering
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Agent Overflow](https://github.com/Kart-ing/agentoverflow)** | `MCP` `Playwright` `Chrome Ext` | **Cal Hacks Winner.** A "self-healing" debugger for AI agents that penetrates Shadow DOMs to fetch docs and fix broken code autonomously. |
-| **[Flux](https://github.com/Kart-ing/Flux-hackathon)** | `Dedalus` `Python` `Supabase` | **Hack Princeton.** A banking protocol for AI agents featuring a deterministic 5-model quorum for transaction safety. |
-| **[SoundSage](https://github.com/Kart-ing/EQ_AI)** | `PyTorch` `ONNX` `Edge AI` | **MHacks Winner.** Real-time music intelligence running locally on NPU hardware with <5ms latency. |
+By day I'm at Cara. If you're building with coding agents, I'd love to talk!
 
 ---
 
-### 🛠 Tech Stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- Site: [kartikey.fyi](https://kartikey.fyi)
+- Devpost: [devpost.com/kartikey-onlineGOD](https://devpost.com/kartikey-onlineGOD)
+- Re:Compress preprint (v2): DOI [10.5281/zenodo.20787487](https://doi.org/10.5281/zenodo.20787487)
+- Repos: [ReCompress](https://github.com/Kart-ing/ReCompress) · [multiverse](https://github.com/Kart-ing/multiverse) · [pingpal](https://github.com/Kart-ing/pingpal)
